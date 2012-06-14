@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.author            = "Jon Yurek"
   s.email             = ["jyurek@thoughtbot.com"]
-  s.homepage          = "https://github.com/thoughtbot/paperclip"
+  s.homepage          = "https://github.com/EasyGive/paperclip"
   s.summary           = "File attachments as attributes for ActiveRecord"
   s.description       = "Easy upload management for ActiveRecord"
 
